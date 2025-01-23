@@ -1,1 +1,25 @@
 /* Add CSS styles for your web site here and use them in index.html. */
+body {
+    background-color: pink;
+    font-family:  "Copperplate";
+    font-size: 45px;
+    text-align: center;
+}
+
+h1{
+	text-align: center;
+	text-weight: bold;
+}
+
+button {
+    width: 140px;
+    color: black;
+    font-size: 16px;
+ }
+ 
+ select { 
+    width: 140px;
+    color: black;
+    font-size: 16px;
+ 
+ }
